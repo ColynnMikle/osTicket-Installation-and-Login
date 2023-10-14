@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>osTicket - Prerequisites and Installation/Setup</h1>
 Outlined is a summary of the installation of osTicket, as well as the necessary files and processes for it's operation.<br />
 
 <h2>Environments and Technologies Used</h2>
